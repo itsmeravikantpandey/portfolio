@@ -186,7 +186,7 @@ export class ProfileService {
   Expertise in Angular 2+ All versions, Javascript, and UI with Responsive Designs`
 
   about = "Lover of innovation and everything related to generate new knowledge.Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do."
-  resumeurl = "https://drive.google.com/file/d/1_IK8ondhy_Ygc99TiUv0ymfghZrRRX_e/view?usp=share_link"
+  resumeurl = "https://drive.google.com/file/d/15hXEyFoy9Zumyd2QRSzQEtqY49YrV-i9/view?usp=sharing"
 
   skillsData: any = [
     {
